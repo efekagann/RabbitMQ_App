@@ -6410,11 +6410,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\efeka\\Desktop\\C#\\RabbitMQ_App\\RabbitMQ.Web.Watermark\\RabbitMQ.Web.Watermark.csproj",
+      "projectUniqueName": "C:\\Users\\efeka\\Documents\\GitHub\\RabbitMQ_App\\RabbitMQ.Web.Watermark\\RabbitMQ.Web.Watermark.csproj",
       "projectName": "RabbitMQ.Web.Watermark",
-      "projectPath": "C:\\Users\\efeka\\Desktop\\C#\\RabbitMQ_App\\RabbitMQ.Web.Watermark\\RabbitMQ.Web.Watermark.csproj",
+      "projectPath": "C:\\Users\\efeka\\Documents\\GitHub\\RabbitMQ_App\\RabbitMQ.Web.Watermark\\RabbitMQ.Web.Watermark.csproj",
       "packagesPath": "C:\\Users\\efeka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\efeka\\Desktop\\C#\\RabbitMQ_App\\RabbitMQ.Web.Watermark\\obj\\",
+      "outputPath": "C:\\Users\\efeka\\Documents\\GitHub\\RabbitMQ_App\\RabbitMQ.Web.Watermark\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",

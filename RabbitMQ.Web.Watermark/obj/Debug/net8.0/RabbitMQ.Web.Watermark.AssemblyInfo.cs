@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RabbitMQ.Web.Watermark")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc64c0f03ead311c10c836ec638de5f65b432add")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a20d3a46f95a8d65a710b237220b083e9e0dea87")]
 [assembly: System.Reflection.AssemblyProductAttribute("RabbitMQ.Web.Watermark")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RabbitMQ.Web.Watermark")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

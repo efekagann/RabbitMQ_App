@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cqczu8RerqRSwDuNfi0jz21ddqMSErJJGaT/0rFvapE2z0KTErzd7plBvuSmfJ3wOoJ2YlCHNPGcqbXd2EbgiQ==",
+  "dgSpecHash": "oJXJ6hDcFKpCUpE6oQYqIN1V/FzpapIJmL58QcesTOpOlHyP1v2weFMty/YFaJ6U5JQo+cq/cPlric9J8iHXWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\efeka\\Desktop\\C#\\RabbitMQ_App\\RabbitMQ.publisher\\RabbitMQ.publisher.csproj",
+  "projectFilePath": "C:\\Users\\efeka\\Documents\\GitHub\\RabbitMQ_App\\RabbitMQ.publisher\\RabbitMQ.publisher.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\efeka\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
     "C:\\Users\\efeka\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",

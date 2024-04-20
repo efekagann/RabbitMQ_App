@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\efeka\\Desktop\\C#\\RabbitMQ_App\\RabbitMQ.subscriber\\RabbitMQ.subscriber.csproj": {}
+    "C:\\Users\\efeka\\Documents\\GitHub\\RabbitMQ_App\\RabbitMQ.subscriber\\RabbitMQ.subscriber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\efeka\\Desktop\\C#\\RabbitMQ_App\\RabbitMQ.subscriber\\RabbitMQ.subscriber.csproj": {
+    "C:\\Users\\efeka\\Documents\\GitHub\\RabbitMQ_App\\RabbitMQ.subscriber\\RabbitMQ.subscriber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\efeka\\Desktop\\C#\\RabbitMQ_App\\RabbitMQ.subscriber\\RabbitMQ.subscriber.csproj",
+        "projectUniqueName": "C:\\Users\\efeka\\Documents\\GitHub\\RabbitMQ_App\\RabbitMQ.subscriber\\RabbitMQ.subscriber.csproj",
         "projectName": "RabbitMQ.subscriber",
-        "projectPath": "C:\\Users\\efeka\\Desktop\\C#\\RabbitMQ_App\\RabbitMQ.subscriber\\RabbitMQ.subscriber.csproj",
+        "projectPath": "C:\\Users\\efeka\\Documents\\GitHub\\RabbitMQ_App\\RabbitMQ.subscriber\\RabbitMQ.subscriber.csproj",
         "packagesPath": "C:\\Users\\efeka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\efeka\\Desktop\\C#\\RabbitMQ_App\\RabbitMQ.subscriber\\obj\\",
+        "outputPath": "C:\\Users\\efeka\\Documents\\GitHub\\RabbitMQ_App\\RabbitMQ.subscriber\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",

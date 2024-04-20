@@ -1,17 +1,22 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using RabbitMQ.Web.Watermark.Models;
+using RabbitMQ.Web.Watermark.Services;
 
 namespace RabbitMQ.Web.Watermark.Controllers
 {
     public class ProductsController : Controller
     {
         private readonly AppDbContext _context;
+        private readonly RabbitMQPublisher _rabbitMQPublisher;
 
-        public ProductsController(AppDbContext context)
+        public ProductsController(AppDbContext context, RabbitMQPublisher rabbitMQPublisher)
         {
             _context = context;
+            _rabbitMQPublisher = rabbitMQPublisher;
         }
+
+
 
         // GET: Products
         public async Task<IActionResult> Index()
@@ -48,14 +53,28 @@ namespace RabbitMQ.Web.Watermark.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name,Price,Stock,PictureUrl")] Product product)
+        public async Task<IActionResult> Create([Bind("Id,Name,Price,Stock,PictureUrl")] Product product, IFormFile imageFile)
         {
-            if (ModelState.IsValid)
+
+            //if (!ModelState.IsValid) return View(product);
+
+            if (imageFile is { Length: > 0 })
             {
-                _context.Add(product);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                var randomImageName = Guid.NewGuid() + Path.GetExtension(imageFile.FileName);
+                var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/Images", randomImageName);
+                await using FileStream stream = new(path, FileMode.Create);
+                await imageFile.CopyToAsync(stream);
+
+                _rabbitMQPublisher.Publish(new ProductImageCreatedEvent() { ImageName = randomImageName });
+
+                product.PictureUrl = randomImageName;
             }
+
+
+            _context.Add(product);
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
+
             return View(product);
         }
 

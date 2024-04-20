@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yzbuT6MK9QnXdME9hjcB/EpzKH2lwiagwB/Ild94JzDUL6KFS9XjJP8AGK1+HB9XqYTKHFnzDoiWk2rFLtEP7A==",
+  "dgSpecHash": "Nuf56xnaYOwcZOLi5pfpWGLKYGpLDBJZQzsxGGEA1N2IGZuJxRpXa7y8GsVM6qh/3bzgxAQxyfpr7/bdGcMihw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\efeka\\Desktop\\C#\\RabbitMQ_App\\RabbitMQ.Web.Watermark\\RabbitMQ.Web.Watermark.csproj",
+  "projectFilePath": "C:\\Users\\efeka\\Documents\\GitHub\\RabbitMQ_App\\RabbitMQ.Web.Watermark\\RabbitMQ.Web.Watermark.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\efeka\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\efeka\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
