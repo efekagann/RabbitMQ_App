@@ -9,6 +9,14 @@
       "PackagePath": "staticwebassets\\Images\\7b126803-3608-4ed1-8382-be38fe24a249.jpeg"
     },
     {
+      "Id": "C:\\Users\\efeka\\Documents\\GitHub\\RabbitMQ_App\\RabbitMQ.Web.Watermark\\wwwroot\\Images\\e043030e-548a-492f-bf49-fbb01017f8bd.jpeg",
+      "PackagePath": "staticwebassets\\Images\\e043030e-548a-492f-bf49-fbb01017f8bd.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\efeka\\Documents\\GitHub\\RabbitMQ_App\\RabbitMQ.Web.Watermark\\wwwroot\\Images\\watermarks\\e043030e-548a-492f-bf49-fbb01017f8bd.jpeg",
+      "PackagePath": "staticwebassets\\Images\\watermarks\\e043030e-548a-492f-bf49-fbb01017f8bd.jpeg"
+    },
+    {
       "Id": "C:\\Users\\efeka\\Documents\\GitHub\\RabbitMQ_App\\RabbitMQ.Web.Watermark\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
