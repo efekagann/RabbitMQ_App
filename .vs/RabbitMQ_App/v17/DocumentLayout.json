@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\efeka\\Documents\\GitHub\\RabbitMQ_App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA49E0DB-B925-4734-93C0-B0D6F13AEF0D}|RabbitMQWeb.ExcelCreate\\RabbitMQWeb.ExcelCreate.csproj|c:\\users\\efeka\\documents\\github\\rabbitmq_app\\rabbitmqweb.excelcreate\\views\\product\\files.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FA49E0DB-B925-4734-93C0-B0D6F13AEF0D}|RabbitMQWeb.ExcelCreate\\RabbitMQWeb.ExcelCreate.csproj|solutionrelative:rabbitmqweb.excelcreate\\views\\product\\files.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FA49E0DB-B925-4734-93C0-B0D6F13AEF0D}|RabbitMQWeb.ExcelCreate\\RabbitMQWeb.ExcelCreate.csproj|c:\\users\\efeka\\documents\\github\\rabbitmq_app\\rabbitmqweb.excelcreate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA49E0DB-B925-4734-93C0-B0D6F13AEF0D}|RabbitMQWeb.ExcelCreate\\RabbitMQWeb.ExcelCreate.csproj|solutionrelative:rabbitmqweb.excelcreate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA49E0DB-B925-4734-93C0-B0D6F13AEF0D}|RabbitMQWeb.ExcelCreate\\RabbitMQWeb.ExcelCreate.csproj|c:\\users\\efeka\\documents\\github\\rabbitmq_app\\rabbitmqweb.excelcreate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA49E0DB-B925-4734-93C0-B0D6F13AEF0D}|RabbitMQWeb.ExcelCreate\\RabbitMQWeb.ExcelCreate.csproj|solutionrelative:rabbitmqweb.excelcreate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F6B0C5-3DEB-4DB5-BB84-5B0594977F4A}|RabbitMQ.Web.Watermark\\RabbitMQ.Web.Watermark.csproj|c:\\users\\efeka\\documents\\github\\rabbitmq_app\\rabbitmq.web.watermark\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98F6B0C5-3DEB-4DB5-BB84-5B0594977F4A}|RabbitMQ.Web.Watermark\\RabbitMQ.Web.Watermark.csproj|solutionrelative:rabbitmq.web.watermark\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA49E0DB-B925-4734-93C0-B0D6F13AEF0D}|RabbitMQWeb.ExcelCreate\\RabbitMQWeb.ExcelCreate.csproj|c:\\users\\efeka\\documents\\github\\rabbitmq_app\\rabbitmqweb.excelcreate\\services\\rabbitmqclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA49E0DB-B925-4734-93C0-B0D6F13AEF0D}|RabbitMQWeb.ExcelCreate\\RabbitMQWeb.ExcelCreate.csproj|solutionrelative:rabbitmqweb.excelcreate\\services\\rabbitmqclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA49E0DB-B925-4734-93C0-B0D6F13AEF0D}|RabbitMQWeb.ExcelCreate\\RabbitMQWeb.ExcelCreate.csproj|c:\\users\\efeka\\documents\\github\\rabbitmq_app\\rabbitmqweb.excelcreate\\models\\userfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA49E0DB-B925-4734-93C0-B0D6F13AEF0D}|RabbitMQWeb.ExcelCreate\\RabbitMQWeb.ExcelCreate.csproj|solutionrelative:rabbitmqweb.excelcreate\\models\\userfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA49E0DB-B925-4734-93C0-B0D6F13AEF0D}|RabbitMQWeb.ExcelCreate\\RabbitMQWeb.ExcelCreate.csproj|c:\\users\\efeka\\documents\\github\\rabbitmq_app\\rabbitmqweb.excelcreate\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA49E0DB-B925-4734-93C0-B0D6F13AEF0D}|RabbitMQWeb.ExcelCreate\\RabbitMQWeb.ExcelCreate.csproj|solutionrelative:rabbitmqweb.excelcreate\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA49E0DB-B925-4734-93C0-B0D6F13AEF0D}|RabbitMQWeb.ExcelCreate\\RabbitMQWeb.ExcelCreate.csproj|c:\\users\\efeka\\documents\\github\\rabbitmq_app\\rabbitmqweb.excelcreate\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA49E0DB-B925-4734-93C0-B0D6F13AEF0D}|RabbitMQWeb.ExcelCreate\\RabbitMQWeb.ExcelCreate.csproj|solutionrelative:rabbitmqweb.excelcreate\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA49E0DB-B925-4734-93C0-B0D6F13AEF0D}|RabbitMQWeb.ExcelCreate\\RabbitMQWeb.ExcelCreate.csproj|c:\\users\\efeka\\documents\\github\\rabbitmq_app\\rabbitmqweb.excelcreate\\views\\product\\files.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA49E0DB-B925-4734-93C0-B0D6F13AEF0D}|RabbitMQWeb.ExcelCreate\\RabbitMQWeb.ExcelCreate.csproj|solutionrelative:rabbitmqweb.excelcreate\\views\\product\\files.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA49E0DB-B925-4734-93C0-B0D6F13AEF0D}|RabbitMQWeb.ExcelCreate\\RabbitMQWeb.ExcelCreate.csproj|c:\\users\\efeka\\documents\\github\\rabbitmq_app\\rabbitmqweb.excelcreate\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -22,11 +46,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\efeka\\Documents\\GitHub\\RabbitMQ_App\\RabbitMQWeb.ExcelCreate\\appsettings.json",
+              "RelativeDocumentMoniker": "RabbitMQWeb.ExcelCreate\\appsettings.json",
+              "ToolTip": "C:\\Users\\efeka\\Documents\\GitHub\\RabbitMQ_App\\RabbitMQWeb.ExcelCreate\\appsettings.json",
+              "RelativeToolTip": "RabbitMQWeb.ExcelCreate\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-28T09:26:55.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\efeka\\Documents\\GitHub\\RabbitMQ_App\\RabbitMQ.Web.Watermark\\appsettings.json",
+              "RelativeDocumentMoniker": "RabbitMQ.Web.Watermark\\appsettings.json",
+              "ToolTip": "C:\\Users\\efeka\\Documents\\GitHub\\RabbitMQ_App\\RabbitMQ.Web.Watermark\\appsettings.json",
+              "RelativeToolTip": "RabbitMQ.Web.Watermark\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-28T09:26:49.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RabbitMQClientService.cs",
+              "DocumentMoniker": "C:\\Users\\efeka\\Documents\\GitHub\\RabbitMQ_App\\RabbitMQWeb.ExcelCreate\\Services\\RabbitMQClientService.cs",
+              "RelativeDocumentMoniker": "RabbitMQWeb.ExcelCreate\\Services\\RabbitMQClientService.cs",
+              "ToolTip": "C:\\Users\\efeka\\Documents\\GitHub\\RabbitMQ_App\\RabbitMQWeb.ExcelCreate\\Services\\RabbitMQClientService.cs",
+              "RelativeToolTip": "RabbitMQWeb.ExcelCreate\\Services\\RabbitMQClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T09:19:09.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\efeka\\Documents\\GitHub\\RabbitMQ_App\\RabbitMQWeb.ExcelCreate\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "RabbitMQWeb.ExcelCreate\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\efeka\\Documents\\GitHub\\RabbitMQ_App\\RabbitMQWeb.ExcelCreate\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "RabbitMQWeb.ExcelCreate\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T09:02:36.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserFile.cs",
+              "DocumentMoniker": "C:\\Users\\efeka\\Documents\\GitHub\\RabbitMQ_App\\RabbitMQWeb.ExcelCreate\\Models\\UserFile.cs",
+              "RelativeDocumentMoniker": "RabbitMQWeb.ExcelCreate\\Models\\UserFile.cs",
+              "ToolTip": "C:\\Users\\efeka\\Documents\\GitHub\\RabbitMQ_App\\RabbitMQWeb.ExcelCreate\\Models\\UserFile.cs",
+              "RelativeToolTip": "RabbitMQWeb.ExcelCreate\\Models\\UserFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:57:40.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\efeka\\Documents\\GitHub\\RabbitMQ_App\\RabbitMQWeb.ExcelCreate\\Program.cs",
+              "RelativeDocumentMoniker": "RabbitMQWeb.ExcelCreate\\Program.cs",
+              "ToolTip": "C:\\Users\\efeka\\Documents\\GitHub\\RabbitMQ_App\\RabbitMQWeb.ExcelCreate\\Program.cs",
+              "RelativeToolTip": "RabbitMQWeb.ExcelCreate\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:52:59.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Files.cshtml",
               "DocumentMoniker": "C:\\Users\\efeka\\Documents\\GitHub\\RabbitMQ_App\\RabbitMQWeb.ExcelCreate\\Views\\Product\\Files.cshtml",
               "RelativeDocumentMoniker": "RabbitMQWeb.ExcelCreate\\Views\\Product\\Files.cshtml",
@@ -39,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\efeka\\Documents\\GitHub\\RabbitMQ_App\\RabbitMQWeb.ExcelCreate\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "RabbitMQWeb.ExcelCreate\\Views\\Product\\Index.cshtml",
@@ -47,12 +149,11 @@
               "RelativeToolTip": "RabbitMQWeb.ExcelCreate\\Views\\Product\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T17:00:59.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T17:00:59.715Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\efeka\\Documents\\GitHub\\RabbitMQ_App\\RabbitMQWeb.ExcelCreate\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "RabbitMQWeb.ExcelCreate\\Controllers\\ProductController.cs",
